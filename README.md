@@ -1,4 +1,4 @@
-<h1 align="center">💫 About Me:</h1>
+<h1 align="left">💫 About Me:</h1>
 
  🔭 I’m currently working **Next**
 <p align="left">
