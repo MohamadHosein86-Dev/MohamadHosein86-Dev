@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohamadhosein</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadhosein-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadhosein-dev" /> </p>
 
 - 🔭 I’m currently working **Next**
 
