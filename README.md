@@ -7,7 +7,7 @@
     width="300" 
   />
 </p>
-<h3 align="left">💻 Tech Stack:</h3>
+<h1 align="left">💻 Tech Stack:</h1>
 <p align="left"> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 10px;" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 10px;" />
@@ -24,7 +24,7 @@
    <img src="https://camo.githubusercontent.com/893370eeab3ae74b7602a757431776c5f106d9c96d723f63b35c73cc660bd7e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" alt="TypeScript" style="margin-right: 10px;" />
 </p>
 
-<h3 align="left">🛠 Tools:</h3>
+<h1 align="left">🛠 Tools:</h1>
 <p align="left">
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="margin-right: 10px;" />
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px;" />
