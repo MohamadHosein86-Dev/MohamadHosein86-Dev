@@ -34,10 +34,11 @@
 </p>
 
 
+## 📊 GitHub Stats:
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamadHosein86-Dev&theme=radical&hide_border=true" width="60%" />
 
-<h1 align="left">📊 GitHub Stats:</h1>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadHosein86-Dev&layout=compact&theme=radical&hide_border=true" width="38%" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamadhosein-dev&show_icons=true&locale=en&layout=compact" alt="mohamadhosein-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadhosein-dev&show_icons=true&locale=en" alt="mohamadhosein-dev" /></p>
 
