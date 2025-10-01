@@ -2,7 +2,7 @@
 ```javascript
 import {getInfo} from "./.js"
 
-const information = getInfo("hossein-ghanimati") 
+const information = getInfo("mohamadhosein-safaryan") 
 console.log(information);
 ```
 
@@ -10,7 +10,7 @@ console.log(information);
 
 ``` json
 {
-    "name": "Hossein Ghanimati",
+    "name": "Mohamadhosein safaryan",
     "description":"Hi guys. I'm Front End Developer. My skills are HTML, CSS , javascript, tailwind, react, typescript (and some other packages). I have been in the front-end world for almost 1\5 year \nAnd I have been dealing with the dear JavaScript language for almost 1 year and 2 month \nI have recently mastered react and am about to start learning Next"
 }
 ```
