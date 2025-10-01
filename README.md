@@ -94,17 +94,6 @@ console.log(information);
 
 
 <br/>
-<br/>
-
----
-
-<h2>
-    ⚡️ &nbsp; My Gitub Stat :
-</h2>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-ghanimati&hide_progress=false&theme=dark" />
-</p>
 
 <!--
 **hossein-ghanimati/hossein-ghanimati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
