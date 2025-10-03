@@ -59,13 +59,7 @@ console.log(information);
 <h2 align="left">📞 &nbsp; Contact me </h2>
 
 <p align="center">
-  <a href="https://hossein-ghanimati.github.io/asancode">
-    <img src="https://img.shields.io/badge/Website-AsanCode-green?style=flat&logo=google-chrome" />
-  </a>
-  <a href="https://instagram.com/hossein.front.js/">
-    <img src="https://img.shields.io/badge/Instagram-@hossein.front.js-red?style=flat&logo=instagram" />
-  </a>
-  <a href="https://t.me/ulasoy/">
+  <a href="https://t.me/@mohamadHosein_1386/">
     <img src="https://img.shields.io/badge/Telegram-@ulasoy-blue?style=flat&logo=telegram" />
   </a>
 </p>
